@@ -1,16 +1,32 @@
-## Hi there 👋
+# Deepa Sara Chandy
 
-<!--
-**deepasara/deepasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology Leader | AI & Data Strategy | Technology for Meaningful Impact
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Senior technology leader with over 20 years of experience guiding global teams and delivering large-scale digital platforms.
+
+I work at the intersection of AI, data systems, and scalable technology, with a focus on responsible implementation, strong stakeholder alignment, and sustainable delivery.
+
+My leadership approach centers on clarity, trust, and building teams that execute with ownership and purpose.
+
+---
+
+## Leadership Focus
+
+- AI & Data Strategy (GenAI, Conversational AI, ML)
+- Technology Strategy & Scalable Platforms
+- Roadmap Planning & Delivery Execution
+- Data Governance & System Design
+- Stakeholder Collaboration & Alignment
+- Team Leadership, Mentoring & Capacity Building
+- Change Management & Process Improvement
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/deepasara/
+- Email: deepasarachandy@gmail.com
