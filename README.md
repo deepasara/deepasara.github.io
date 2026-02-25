@@ -29,4 +29,4 @@ My leadership approach centers on clarity, trust, and building teams that execut
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/deepasara/
-- Email: deepasarachandy@gmail.com
+
